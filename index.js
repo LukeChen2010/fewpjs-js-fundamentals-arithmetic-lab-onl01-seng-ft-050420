@@ -9,4 +9,4 @@ const random = Math.floor(Math.random() * 10) + 1
 
 const mod = 7 % 3
 
-const max = Math.max( 5, 10, 15, 20 )
+const max = Math.max(1, 20)
